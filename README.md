@@ -14,11 +14,11 @@
 
 ##  Quick Links
 
-> - [ Descripción](#-Descripción)
-> - [ Estructura del Repositorio](#-estructura-del-repositorio)
-> - [ Empezar](#-empezar)
->   - [ Instalación](#-instalación)
->   - [ Ejecutar DataProject_1](#-ejecutar-DataProject_1)
+> - [ Descripción](#descripción)
+> - [ Estructura del Repositorio](#estructura-del-repositorio)
+> - [ Empezar](#empezar)
+>   - [ Instalación](#instalación)
+>   - [ Ejecutar DataProject_1](#ejecutar-DataProject_1)
 
 ---
 
@@ -69,6 +69,6 @@ Utilizar el siguiente comando para ejecutar DataProject_1:
 jupyter nbconvert --execute notebook.ipynb
 ```
 
-[**Return**](#-quick-links)
+[**Return**](#quick-links)
 
 ---
